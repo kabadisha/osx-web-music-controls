@@ -1,5 +1,5 @@
 # osx-web-music-controls
-A set of OSX workflows that allow you to control web music players using the OSX media keys at the top of the keyboard.
+A set of OSX Automator workflows that allow you to control web music players using the OSX media keys at the top of the keyboard.
 
 Services currently supported are Google Play Music and Hype Machine.
 
